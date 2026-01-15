@@ -15,8 +15,7 @@ This crash course is written for Mac users and contains instructions using the n
 Every time a user opens a new terminal window, the default folder that the terminal logs into is the home directory on your Mac. *Figure 1* shows my new terminal window where I executed a command `ls`, which outputs a list of folders and files in the current directory (aka the home directory)
 
 *Figure 1: Showing a list of folders in the home directory. Notice that the finder window and `ls` output in the terminal window show the same list of folders*
-![[images/figure1.png}}
-
+![Figure 1](images/figure1.png)
 1. **Logging into the UCR computer cluster**
 Advanced users might be interested in setting `ssh` keys, but for beginners, there is a simpler login procedure that does not require writing any complex code. To give a beginner user more context, `ssh` is a standard protocol used to connect to a remote computer cluster. In our case, we will connect to UCR's high-performance computer cluster (aka hpcc). 
 To login into UCR's hpcc via `ssh` type in the following command
