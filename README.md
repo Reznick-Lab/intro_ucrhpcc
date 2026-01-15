@@ -26,7 +26,7 @@ ssh <username>@cluster.hpcc.ucr.edu
 
 The user will then be prompted for a password and Duo two-factor authentication, similar to other UCR associated accounts.
 
-![[images/figure2.png]]
+![Figure 2](images/figure2.png)
 
 2. **Home directory in UCR hpcc (aka `/rhome/<username>`)**
 Similar to [Figure 1](images/figure1.png), which terminal logs into when you have just opened it, `ssh` login will log into the home directory in UCR's hpcc. 
