@@ -12,6 +12,7 @@ In UNIX/LINUX systems, the primary tool of choice to access your files and folde
 
 # Beginner-friendly crash course 
 This crash course is written for Mac users and contains instructions using the native terminal app.
+
 Every time a user opens a new terminal window, the default folder that the terminal logs into is the home directory on your Mac. *Figure 1* shows my new terminal window where I executed a command `ls`, which outputs a list of folders and files in the current directory (aka the home directory)
 
 *Figure 1: Showing a list of folders in the home directory. Notice that the finder window and `ls` output in the terminal window show the same list of folders*
